@@ -59,7 +59,7 @@ Boxel has three major dependencies:
 
 Installing these can be a pain, so we've created a
 [docker-compose](https://github.com/docker/compose) YAML file that
-will handle building and packaing these dependencies into Docker containers.
+will handle building and packaging these dependencies into Docker containers.
 
 With just a few lines in your terminal, you should be able to start Boxel and
 its dependencies up. Let's take a look:
